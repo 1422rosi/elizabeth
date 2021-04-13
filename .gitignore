@@ -1,0 +1,4 @@
+# esta regla define que no se versionara el archivo temporal de vim
+*.swap
+# esta regla define que no se versionara las configuraciones de variables de entorno
+.env
